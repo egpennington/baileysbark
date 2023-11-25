@@ -20,6 +20,9 @@ function generateRandomQuote() {
     document.body.style.background = "url('https://source.unsplash.com/random/1920x1280/?water,nature')"
 }
 
+// random quote at start
+generateRandomQuote()
+
 // event listener for button
 btnEl.addEventListener("click", function() {
         generateRandomQuote()
