@@ -62,6 +62,18 @@ a {
     border: 1px solid #aaa;
 }
 
+/* Media Queries for Mobile and Small Screens */
+@media (max-width: 768px) {
+    .display {
+        width: 90%;
+        padding: 20px;
+    }
+
+    #author {
+        margin-left: 0;
+    }
+}
+
 .btn:hover {
     border: 1px solid #333;
     font-weight: 500;
