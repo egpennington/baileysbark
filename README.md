@@ -35,8 +35,7 @@ Users should be able to:
   - Use a different background-image and quotes
   - Use flexbox
   - Change color of quotes box on :hover state
-  - Make quote box a link  that opens up URL in a new tab
-  - - **Bonus**: Stretch goals
+  - **Bonus**: Stretch goals
         - Place quote box exactly in the center
         - Use JavaScript to 
             - Display a new quote on every refresh
@@ -45,12 +44,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/Web%20capture_24-11-2023_185719_127.0.0.1.jpeg)
+![image](https://github.com/egpennington/baileysbark/assets/53251137/3de0fbaa-4261-45e7-b99e-412d4efb1fbc)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/egpennington/baileysbark/tree/main)
+- Live Site URL: (https://baileysbark.netlify.app/)
 
 ## My process
 - Looked at figma file.
