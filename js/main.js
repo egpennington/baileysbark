@@ -25,7 +25,6 @@ generateRandomQuote()
 
 // event listener for button
 btnEl.addEventListener("click", function() {
-        generateRandomQuote()
         location.reload()
 })
 
