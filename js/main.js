@@ -26,6 +26,3 @@ btnEl.addEventListener("click", function() {
         location.reload()
 })
 
-// displays quote when page loads, uses function on page load
-generateRandomQuote()
-
