@@ -42,12 +42,12 @@ a {
     opacity: 0.9;
 }
 
-#quote {
+.quote {
     text-align: left;
     font-weight: 300;
 }
 
-#author {
+.author {
     margin-left: auto;
     font-weight: 800;
     margin-top: 15px;
